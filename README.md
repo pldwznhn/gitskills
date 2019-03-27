@@ -8,4 +8,6 @@ hehe
 
 merge the change
 
-edit by branch, merge fixed! 
+edit by branch, merge fixed!
+
+master change! 
