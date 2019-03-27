@@ -10,4 +10,4 @@ merge the change
 
 edit by branch, merge fixed!
 
-master change! 
+master and f1 borth change! 
